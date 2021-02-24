@@ -31,8 +31,9 @@ L'application permet de jouer à 5 jeux de Mancala :
 </ul>
 <br>
 Affichage au début d'une partie d'Awalé :
-<br>
+
 ![Capture1](https://user-images.githubusercontent.com/66320697/108994279-dcb83400-769b-11eb-88e3-7983e8dcc449.PNG)
+
 <br><br>
 Affichage au cours d'une partie d'Awalé :
 <br><br>
