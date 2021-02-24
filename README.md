@@ -36,6 +36,9 @@ Affichage au début d'une partie d'Awalé :
 
 <br><br>
 Affichage au cours d'une partie d'Awalé :
+
+![Capture2](https://user-images.githubusercontent.com/66320697/108994554-3ae51700-769c-11eb-9f98-1e7874c8b136.PNG)
+
 <br><br>
 Affichage à la fin d'une partie d'Awalé :
 
