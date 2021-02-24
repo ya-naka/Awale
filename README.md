@@ -44,7 +44,7 @@ Affichage à la fin d'une partie d'Awalé :
 
 ![Capture3](https://user-images.githubusercontent.com/66320697/108994922-ac24ca00-769c-11eb-8055-a35ea25f3d71.PNG)
 
-
+<br<br>
 <h2> BILAN DU PROJET </h2>
 <h3> Démarche </h3>
 L’un des enjeux principaux de ce projet étant de réaliser une architecture du programme
