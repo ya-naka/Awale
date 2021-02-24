@@ -12,7 +12,7 @@ joueur s’empare des graines se trouvant dans un trou (de sa rangée ou non sel
 sème une à une dans les trous suivants, dans le sens inverse des aiguilles d’une montre. Le joueur a
 la possiblité de ramasser des graines à la suite de son semis. Les conditions pour pouvoir ramasser
 des graines dépendent de la variante choisie. Le joueur gagnant la partie est ainsi celui qui aura
-ramassé le plus graine à la fin du jeu.<br><br>
+ramassé le plus graines à la fin du jeu.<br><br>
 La partie se termine si plus aucune prise ne peut être réalisée ou lorsque les joueurs
 décident, d’un commun accord, en saisissant la valeur 0, d’arrêter la partie.<br><br>
 L’enjeu de ce projet est de proposer une architecture du programme permettant une
