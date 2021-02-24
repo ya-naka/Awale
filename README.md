@@ -17,3 +17,5 @@ La partie se termine si plus aucune prise ne peut être réalisée ou lorsque le
 décident, d’un commun accord, en saisissant la valeur 0, d’arrêter la partie.<br><br>
 L’enjeu de ce projet est de proposer une architecture du programme permettant une
 intégration aisée de toutes les variantes de jeux de Mancala.<br><br>
+
+![Capture](https://user-images.githubusercontent.com/66320697/108989123-8ba54180-7695-11eb-9bbf-4a37151eca1e.PNG)
