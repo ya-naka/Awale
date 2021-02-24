@@ -21,6 +21,24 @@ intégration aisée de toutes les variantes de jeux de Mancala.<br><br>
 ![Capture](https://user-images.githubusercontent.com/66320697/108989123-8ba54180-7695-11eb-9bbf-4a37151eca1e.PNG)
 
 <h2> PRESENTATION </h2>
+L'application permet de jouer à 5 jeux de Mancala :
+<ul>
+  <li>Awalé</li>
+  <li>Kakua</li>
+  <li>Owani</li>
+  <li>Wali</li>
+  <li>Tamtam-Apachi</li>
+</ul>
+<br>
+Affichage au début d'une partie d'Awalé :
+![Capture1](https://user-images.githubusercontent.com/66320697/108993109-65ce6b80-769a-11eb-9daa-d3c8c60c29a9.PNG)
+<br><br>
+Affichage au cours d'une partie d'Awalé :
+![Capture2](https://user-images.githubusercontent.com/66320697/108993373-c493e500-769a-11eb-9b0b-afe3298e75cb.PNG)
+<br><br>
+Affichage à la fin d'une partie d'Awalé :
+![Capture2](https://user-images.githubusercontent.com/66320697/108993476-eb521b80-769a-11eb-8540-3f0b3acfb018.PNG)
+
 
 <h2> BILAN DU PROJET </h2>
 <h3> Démarche </h3>
