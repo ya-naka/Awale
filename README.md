@@ -20,6 +20,8 @@ intégration aisée de toutes les variantes de jeux de Mancala.<br><br>
 
 ![Capture](https://user-images.githubusercontent.com/66320697/108989123-8ba54180-7695-11eb-9bbf-4a37151eca1e.PNG)
 
+<h2> Présentation </h2>
+
 <h2> BILAN DU PROJET </h2>
 <h3> Démarche </h3>
 L’un des enjeux principaux de ce projet étant de réaliser une architecture du programme
