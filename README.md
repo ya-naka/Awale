@@ -88,7 +88,7 @@ L’ajout d’une fabrique de jeux de Mancala facilite l’utilisation, dans la 
 variantes ajoutées a posteriori.<br><br>
 Note : les numéros représentent les valeurs envoyées en paramètres du main.<br><br>
 <h3> Ce qui peut être amélioré </h3>
-Ayant eu des difficultés à organiser les paquetages et les classes, une réorganisation de ceuxci pour réduire le nombre de dépendances entre eux et rendre les paquetages plus stables est nécessaire.<br><br>
+Ayant eu des difficultés à organiser les paquetages et les classes, une réorganisation de ceux-ci pour réduire le nombre de dépendances entre eux et rendre les paquetages plus stables est nécessaire.<br><br>
 L’Oware peut se jouer à plusieurs joueurs, l’état actuel du code de la classe AwaléStandard
 ne permet pas entièrement de répondre aux spécificités d’un tel mode de jeu. Des améliorations
 pourraient être apportées à ce sujet.
