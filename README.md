@@ -43,7 +43,7 @@ J’ai par la suite détaillé le fonctionnement de chaque action du jeu pour ch
 pour pouvoir factoriser le plus possible mon code. J’ai ainsi réalisé que les seules véritables
 différences entre ces variantes se trouvaient dans les actions de semer et de ramasser, ainsi que dans
 les conditions pour pouvoir semer ou ramasser. J’ai alors décidé de créer une classe AwaléStandard
-réunissant toutes les caractéristiques communes aux cinq variante et de créer une classe pour
+réunissant toutes les caractéristiques communes aux cinq variantes et de créer une classe pour
 chaque variante, héritant chacune de la classe AwaléStandard. La classe AwaléStandard n’est pas un
 jeu de Mancala à proprement parlé, mais réunit les méthodes communes à la majorité des variantes,
 j’ai ainsi fait le choix d’en faire une classe abstraite. Enfin, j’ai spécialisé les méthodes représentant
